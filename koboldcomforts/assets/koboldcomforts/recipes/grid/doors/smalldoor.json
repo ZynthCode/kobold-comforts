@@ -1,0 +1,29 @@
+[
+  {
+    "ingredientPattern": "___,AW_,SW_",
+    "RecipeGroup": 0,
+    "ingredients": {
+      "A": {
+        "type": "item",
+        "code": "game:axe-*",
+        "isTool": true
+      },
+      "S": {
+        "type": "item",
+        "code": "game:stick"
+      },
+      "W": {
+        "type": "item",
+        "code": "game:plank-*",
+        "name": "wood"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "koboldcomforts:smalldoor-{wood}",
+      "quantity": 1
+    }
+  }
+]
