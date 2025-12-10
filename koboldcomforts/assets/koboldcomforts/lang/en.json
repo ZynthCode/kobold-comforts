@@ -1,5 +1,27 @@
 {
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Small Door",
-  "koboldcomforts:handbook-smalldoor-desc": "A small door perfect for smaller kobolds (or for smaller pets and critters)."
+  "koboldcomforts:block-smalldoor-moss": "Small Door (Moss)",
+  "koboldcomforts:handbook-smalldoor-desc": "A small door perfect for smaller kobolds (or for smaller pets and critters).",
+
+  "koboldcomforts:block-smallchair-plain": "Small Chair (Plain)",
+  "koboldcomforts:block-smallchair-blue": "Small Chair (Blue)",
+  "koboldcomforts:block-smallchair-red": "Small Chair (Red)",
+  "koboldcomforts:block-smallchair-yellow": "Small Chair (Yellow)",
+  "koboldcomforts:block-smallchair-purple": "Small Chair (Purple)",
+  "koboldcomforts:block-smallchair-brown": "Small Chair (Brown)",
+  "koboldcomforts:block-smallchair-green": "Small Chair (Green)",
+  "koboldcomforts:block-smallchair-orange": "Small Chair (Orange)",
+  "koboldcomforts:block-smallchair-black": "Small Chair (Black)",
+  "koboldcomforts:block-smallchair-gray": "Small Chair (Gray)",
+  "koboldcomforts:block-smallchair-pink": "Small Chair (Pink)",
+  "koboldcomforts:block-smallchair-white": "Small Chair (White)",
+  "koboldcomforts:block-smallchair-moss": "Small Chair (Moss)",
+  "koboldcomforts:handbook-smallchair-desc": "A small chair designed with kobold proportions in mind.",
+
+  "koboldcomforts:item-mossculture": "Moss Culture",
+  "koboldcomforts:itemdesc-mossculture": "A damp culture of moss grown from rot and water in a barrel.",
+
+  "koboldcomforts:block-mossblock": "Moss Block",
+  "koboldcomforts:handbook-mossblock-desc": "Soft, spongy moss grown over peat. Useful for comfortable furniture or decorative builds."
 }

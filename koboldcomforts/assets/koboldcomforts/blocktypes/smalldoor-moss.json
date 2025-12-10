@@ -1,0 +1,75 @@
+{
+  "code": "smalldoor-moss",
+  "class": "BlockGeneric",
+  "entityClass": "Generic",
+
+  "behaviors": [
+    { "name": "Lockable" },
+    { "name": "Door" },
+    { "name": "BlockEntityInteract" }
+  ],
+  "entityBehaviors": [{ "name": "Door" }],
+
+  "attributes": {
+    "handbook": {
+      "groupBy": ["smalldoor-*"],
+      "extraSections": [
+        { "title": "", "text": "koboldcomforts:handbook-smalldoor-desc" }
+      ]
+    },
+    "reinforcable": true,
+    "airtightByType": { "smalldoor-moss": true },
+    "widthByType": { "smalldoor-moss": 1 },
+    "heightByType": { "smalldoor-moss": 1 },
+    "openSoundByType": { "smalldoor-moss": "game:sounds/block/door" },
+    "closeSoundByType": { "smalldoor-moss": "game:sounds/block/door" },
+    "easingSpeedByType": { "smalldoor-moss": 10 }
+  },
+
+  "creativeinventoryByType": {
+    "smalldoor-moss": { "general": ["*"], "decorative": ["*"] }
+  },
+
+  "shape": { "base": "koboldcomforts:wood/smalldoor-solid" },
+
+  "texturesByType": {
+    "smalldoor-moss": {
+      "wood": {
+        "base": "game:block/wood/debarked/mossy",
+        "rotation": 90,
+        "blendedOverlays": [
+          {
+            "base": "game:block/wood/door/overlay-solid",
+            "blendMode": "Overlay"
+          }
+        ]
+      },
+      "iron": {
+        "base": "game:block/metal/ingot/iron",
+        "rotation": 90
+      }
+    }
+  },
+
+  "renderPass": "OpaqueNoCull",
+  "faceCullMode": "NeverCull",
+  "blockmaterial": "Wood",
+  "sideAo": { "all": false },
+  "heldTpIdleAnimation": "holdunderarm",
+  "lightAbsorption": 0,
+  "sidesolid": {
+    "all": false
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "selectionbox": { "x1": 0, "y1": 0, "z1": 0.875, "x2": 1, "y2": 1, "z2": 1 },
+  "collisionbox": { "x1": 0, "y1": 0, "z1": 0.875, "x2": 1, "y2": 1, "z2": 1 },
+  "materialDensity": 600,
+  "sounds": {
+    "place": "game:block/planks",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  }
+}

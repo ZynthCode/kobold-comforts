@@ -25,8 +25,8 @@
     "airtightByType": { "*": true },
     "widthByType": { "*": 1 },
     "heightByType": { "*": 1 },
-    "openSoundByType": { "*": "sounds/block/door" },
-    "closeSoundByType": { "*": "sounds/block/door" },
+    "openSoundByType": { "*": "game:sounds/block/door" },
+    "closeSoundByType": { "*": "game:sounds/block/door" },
     "easingSpeedByType": { "*": 10 }
   },
 
@@ -34,7 +34,7 @@
     "*": { "general": ["*"], "decorative": ["*"] }
   },
 
-  "shape": { "base": "koboldcomforts:wood/solid-small" },
+  "shape": { "base": "koboldcomforts:wood/smalldoor-solid" },
 
   "texturesByType": {
     "smalldoor-*": {
@@ -69,5 +69,11 @@
   },
   "selectionbox": { "x1": 0, "y1": 0, "z1": 0.875, "x2": 1, "y2": 1, "z2": 1 },
   "collisionbox": { "x1": 0, "y1": 0, "z1": 0.875, "x2": 1, "y2": 1, "z2": 1 },
-  "materialDensity": 600
+  "materialDensity": 600,
+  "sounds": {
+    "place": "game:block/planks",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  }
 }

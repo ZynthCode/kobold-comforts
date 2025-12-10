@@ -1,5 +1,27 @@
 {
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Kleine Tür",
-  "koboldcomforts:handbook-smalldoor-desc": "Eine kleine Tür, perfekt für kleinere Kobolde (oder für kleinere Haustiere und Kreaturen)."
+  "koboldcomforts:block-smalldoor-moss": "Kleine Tür (Moos)",
+  "koboldcomforts:handbook-smalldoor-desc": "Eine kleine Tür, perfekt für kleinere Kobolds (oder für kleinere Haustiere und Kreaturen).",
+
+  "koboldcomforts:block-smallchair-plain": "Kleiner Stuhl (Einfarbig)",
+  "koboldcomforts:block-smallchair-blue": "Kleiner Stuhl (Blau)",
+  "koboldcomforts:block-smallchair-red": "Kleiner Stuhl (Rot)",
+  "koboldcomforts:block-smallchair-yellow": "Kleiner Stuhl (Gelb)",
+  "koboldcomforts:block-smallchair-purple": "Kleiner Stuhl (Lila)",
+  "koboldcomforts:block-smallchair-brown": "Kleiner Stuhl (Braun)",
+  "koboldcomforts:block-smallchair-green": "Kleiner Stuhl (Grün)",
+  "koboldcomforts:block-smallchair-orange": "Kleiner Stuhl (Orange)",
+  "koboldcomforts:block-smallchair-black": "Kleiner Stuhl (Schwarz)",
+  "koboldcomforts:block-smallchair-gray": "Kleiner Stuhl (Grau)",
+  "koboldcomforts:block-smallchair-pink": "Kleiner Stuhl (Rosa)",
+  "koboldcomforts:block-smallchair-white": "Kleiner Stuhl (Weiß)",
+  "koboldcomforts:block-smallchair-moss": "Kleiner Stuhl (Moos)",
+  "koboldcomforts:handbook-smallchair-desc": "Ein kleiner Stuhl, der mit Kobold-Proportionen im Hinterkopf entworfen wurde.",
+
+  "koboldcomforts:item-mossculture": "Mooskultur",
+  "koboldcomforts:itemdesc-mossculture": "Eine feuchte Mooskultur, die aus Fäulnis und Wasser in einem Fass gezogen wurde.",
+
+  "koboldcomforts:block-mossblock": "Moosblock",
+  "koboldcomforts:handbook-mossblock-desc": "Weiches, schwammiges Moos, das auf Torf gewachsen ist. Nützlich für bequeme Möbel oder dekorative Bauten."
 }

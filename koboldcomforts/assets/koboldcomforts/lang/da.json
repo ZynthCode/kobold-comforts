@@ -1,5 +1,27 @@
 {
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Lille Dør",
-  "koboldcomforts:handbook-smalldoor-desc": "En lille dør, perfekt til mindre kobolder (eller til mindre kæledyr og smådyr)."
+  "koboldcomforts:block-smalldoor-moss": "Lille Dør (Mos)",
+  "koboldcomforts:handbook-smalldoor-desc": "En lille dør, perfekt til mindre kobolds (eller til mindre kæledyr og smådyr).",
+
+  "koboldcomforts:block-smallchair-plain": "Lille Taburet (Ufarvet)",
+  "koboldcomforts:block-smallchair-blue": "Lille Taburet (Blå)",
+  "koboldcomforts:block-smallchair-red": "Lille Taburet (Rød)",
+  "koboldcomforts:block-smallchair-yellow": "Lille Taburet (Gul)",
+  "koboldcomforts:block-smallchair-purple": "Lille Taburet (Purpur)",
+  "koboldcomforts:block-smallchair-brown": "Lille Taburet (Brun)",
+  "koboldcomforts:block-smallchair-green": "Lille Taburet (Grøn)",
+  "koboldcomforts:block-smallchair-orange": "Lille Taburet (Orange)",
+  "koboldcomforts:block-smallchair-black": "Lille Taburet (Sort)",
+  "koboldcomforts:block-smallchair-gray": "Lille Taburet (Grå)",
+  "koboldcomforts:block-smallchair-pink": "Lille Taburet (Lyserød)",
+  "koboldcomforts:block-smallchair-white": "Lille Taburet (Hvid)",
+  "koboldcomforts:block-smallchair-moss": "Lille Taburet (Mos)",
+  "koboldcomforts:handbook-smallchair-desc": "En lille stol designet med Kobold-proportioner i tankerne.",
+
+  "koboldcomforts:item-mossculture": "Moskultur",
+  "koboldcomforts:itemdesc-mossculture": "En fugtig kultur af mos, dyrket fra råd og vand i en tønde.",
+
+  "koboldcomforts:block-mossblock": "Mosblok",
+  "koboldcomforts:handbook-mossblock-desc": "Blødt, svampet mos, der er vokset over tørv. Nyttigt til behagelige møbler eller dekorative byggerier."
 }

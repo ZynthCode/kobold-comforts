@@ -1,5 +1,27 @@
 {
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Puerta Pequeña",
-  "koboldcomforts:handbook-smalldoor-desc": "Una puerta pequeña, perfecta para kobolds más pequeños (o para mascotas y criaturas más pequeñas)."
+  "koboldcomforts:block-smalldoor-moss": "Puerta Pequeña (Musgo)",
+  "koboldcomforts:handbook-smalldoor-desc": "Una puerta pequeña, perfecta para kobolds más pequeños (o para mascotas y criaturas más pequeñas).",
+
+  "koboldcomforts:block-smallchair-plain": "Taburete pequeño (Simple)",
+  "koboldcomforts:block-smallchair-blue": "Taburete pequeño (Azul)",
+  "koboldcomforts:block-smallchair-red": "Taburete pequeño (Rojo)",
+  "koboldcomforts:block-smallchair-yellow": "Taburete pequeño (Amarillo)",
+  "koboldcomforts:block-smallchair-purple": "Taburete pequeño (Morado)",
+  "koboldcomforts:block-smallchair-brown": "Taburete pequeño (Marrón)",
+  "koboldcomforts:block-smallchair-green": "Taburete pequeño (Verde)",
+  "koboldcomforts:block-smallchair-orange": "Taburete pequeño (Naranja)",
+  "koboldcomforts:block-smallchair-black": "Taburete pequeño (Negro)",
+  "koboldcomforts:block-smallchair-gray": "Taburete pequeño (Gris)",
+  "koboldcomforts:block-smallchair-pink": "Taburete pequeño (Rosa)",
+  "koboldcomforts:block-smallchair-white": "Taburete pequeño (Blanco)",
+  "koboldcomforts:block-smallchair-moss": "Taburete Pequeño (Musgo)",
+  "koboldcomforts:handbook-smallchair-desc": "Un taburete pequeño diseñado pensando en las proporciones de Kobold.",
+
+  "koboldcomforts:item-mossculture": "Cultivo de musgo",
+  "koboldcomforts:itemdesc-mossculture": "Un cultivo húmedo de musgo, crecido a partir de podredumbre y agua en un barril.",
+
+  "koboldcomforts:block-mossblock": "Bloque de musgo",
+  "koboldcomforts:handbook-mossblock-desc": "Musgo suave y esponjoso que ha crecido sobre turba. Útil para muebles cómodos o construcciones decorativas."
 }

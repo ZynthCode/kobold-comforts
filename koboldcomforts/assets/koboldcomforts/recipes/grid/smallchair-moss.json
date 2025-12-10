@@ -1,0 +1,29 @@
+[
+  {
+    "ingredientPattern": "A,M,P",
+    "RecipeGroup": 0,
+    "ingredients": {
+      "A": {
+        "type": "item",
+        "code": "game:axe-*",
+        "isTool": true
+      },
+      "M": {
+        "type": "item",
+        "code": "koboldcomforts:mossculture",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:plank-*"
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "koboldcomforts:smallchair-moss",
+      "quantity": 1
+    }
+  }
+]

@@ -37,6 +37,6 @@ fi
 OUTPUT_ZIP="${ROOT_DIR}/${MOD_NAME}_${VERSION}.zip"
 
 rm -f "$OUTPUT_ZIP"
-zip -r "$OUTPUT_ZIP" assets modinfo.json > /dev/null
+zip -r "$OUTPUT_ZIP" assets modicon.png modinfo.json >/dev/null
 
 echo "Created $OUTPUT_ZIP"

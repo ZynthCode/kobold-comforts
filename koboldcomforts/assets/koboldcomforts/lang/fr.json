@@ -1,5 +1,27 @@
 {
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Petite Porte",
-  "koboldcomforts:handbook-smalldoor-desc": "Une petite porte parfaite pour les kobolds plus petits (ou pour les animaux de compagnie et les créatures plus petites)."
+  "koboldcomforts:block-smalldoor-moss": "Petite Porte (Mousse)",
+  "koboldcomforts:handbook-smalldoor-desc": "Une petite porte parfaite pour les kobolds plus petits (ou pour les animaux de compagnie et les créatures plus petites).",
+
+  "koboldcomforts:block-smallchair-plain": "Petite Chaise (Brute)",
+  "koboldcomforts:block-smallchair-blue": "Petite Chaise (Bleue)",
+  "koboldcomforts:block-smallchair-red": "Petite Chaise (Rouge)",
+  "koboldcomforts:block-smallchair-yellow": "Petite Chaise (Jaune)",
+  "koboldcomforts:block-smallchair-purple": "Petite Chaise (Violette)",
+  "koboldcomforts:block-smallchair-brown": "Petite Chaise (Brune)",
+  "koboldcomforts:block-smallchair-green": "Petite Chaise (Verte)",
+  "koboldcomforts:block-smallchair-orange": "Petite Chaise (Orange)",
+  "koboldcomforts:block-smallchair-black": "Petite Chaise (Noire)",
+  "koboldcomforts:block-smallchair-gray": "Petite Chaise (Grise)",
+  "koboldcomforts:block-smallchair-pink": "Petite Chaise (Rose)",
+  "koboldcomforts:block-smallchair-white": "Petite Chaise (Blanche)",
+  "koboldcomforts:block-smallchair-moss": "Petite Chaise (Mousse)",
+  "koboldcomforts:handbook-smallchair-desc": "Une petite chaise conçue en pensant aux proportions de Kobold.",
+
+  "koboldcomforts:item-mossculture": "Culture de mousse",
+  "koboldcomforts:itemdesc-mossculture": "Une culture humide de mousse, cultivée à partir de pourriture et d'eau dans un tonneau.",
+
+  "koboldcomforts:block-mossblock": "Bloc de mousse",
+  "koboldcomforts:handbook-mossblock-desc": "Une mousse douce et spongieuse qui a poussé sur la tourbe. Utile pour des meubles confortables ou des constructions décoratives."
 }

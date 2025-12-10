@@ -1,0 +1,21 @@
+{
+  "code": "mossculture",
+  "sealHours": 120,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "game:rot",
+      "quantity": 8
+    },
+    {
+      "type": "item",
+      "code": "game:waterportion",
+      "litres": 20
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "koboldcomforts:mossculture",
+    "stackSize": 32
+  }
+}

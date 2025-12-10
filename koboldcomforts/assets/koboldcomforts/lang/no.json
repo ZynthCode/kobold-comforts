@@ -1,5 +1,27 @@
 {
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Liten Dør",
-  "koboldcomforts:handbook-smalldoor-desc": "En liten dør, perfekt for mindre kobolder (eller for mindre kjæledyr og skapninger)."
+  "koboldcomforts:block-smalldoor-moss": "Liten Dør (Mose)",
+  "koboldcomforts:handbook-smalldoor-desc": "En liten dør, perfekt for mindre Kobolds (eller for mindre kjæledyr og skapninger).",
+
+  "koboldcomforts:block-smallchair-plain": "Liten Stol (Vanlig)",
+  "koboldcomforts:block-smallchair-blue": "Liten Stol (Blå)",
+  "koboldcomforts:block-smallchair-red": "Liten Stol (Rød)",
+  "koboldcomforts:block-smallchair-yellow": "Liten Stol (Gul)",
+  "koboldcomforts:block-smallchair-purple": "Liten Stol (Lilla)",
+  "koboldcomforts:block-smallchair-brown": "Liten Stol (Brun)",
+  "koboldcomforts:block-smallchair-green": "Liten Stol (Grønn)",
+  "koboldcomforts:block-smallchair-orange": "Liten Stol (Oransje)",
+  "koboldcomforts:block-smallchair-black": "Liten Stol (Svart)",
+  "koboldcomforts:block-smallchair-gray": "Liten Stol (Grå)",
+  "koboldcomforts:block-smallchair-pink": "Liten Stol (Rosa)",
+  "koboldcomforts:block-smallchair-white": "Liten Stol (Hvit)",
+  "koboldcomforts:block-smallchair-moss": "Liten Stol (Mose)",
+  "koboldcomforts:handbook-smallchair-desc": "En liten stol designet med Kobold-proporsjoner i tankene.",
+
+  "koboldcomforts:item-mossculture": "Mosekultur",
+  "koboldcomforts:itemdesc-mossculture": "En fuktig kultur av mose dyrket fra råte og vann i ei fat.",
+
+  "koboldcomforts:block-mossblock": "Moseblokk",
+  "koboldcomforts:handbook-mossblock-desc": "Myk, svampete mose som har vokst over torv. Nyttig til komfortable møbler eller dekorative bygg."
 }

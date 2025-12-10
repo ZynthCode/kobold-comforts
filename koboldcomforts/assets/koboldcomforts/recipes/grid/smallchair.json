@@ -1,0 +1,44 @@
+[
+  {
+    "ingredientPattern": "A,C,P",
+    "RecipeGroup": 0,
+    "ingredients": {
+      "A": {
+        "type": "item",
+        "code": "game:axe-*",
+        "isTool": true
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-*",
+        "quantity": 1,
+        "name": "color",
+        "allowedVariants": [
+          "plain",
+          "blue",
+          "brown",
+          "gray",
+          "black",
+          "green",
+          "orange",
+          "pink",
+          "purple",
+          "red",
+          "white",
+          "yellow"
+        ]
+      },
+      "P": {
+        "type": "item",
+        "code": "game:plank-*"
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "koboldcomforts:smallchair-{color}",
+      "quantity": 1
+    }
+  }
+]

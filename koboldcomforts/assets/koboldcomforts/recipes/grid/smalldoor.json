@@ -1,6 +1,6 @@
 [
   {
-    "ingredientPattern": "___,AW_,SW_",
+    "ingredientPattern": "AW,SW",
     "RecipeGroup": 0,
     "ingredients": {
       "A": {
@@ -18,8 +18,8 @@
         "name": "wood"
       }
     },
-    "width": 3,
-    "height": 3,
+    "width": 2,
+    "height": 2,
     "output": {
       "type": "block",
       "code": "koboldcomforts:smalldoor-{wood}",

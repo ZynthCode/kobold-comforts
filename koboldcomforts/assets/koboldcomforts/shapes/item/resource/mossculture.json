@@ -1,0 +1,265 @@
+{
+  "editor": {
+    "allAngles": false,
+    "entityTextureMode": true
+  },
+  "textureWidth": 16,
+  "textureHeight": 16,
+  "textureSizes": {},
+  "textures": {
+    "mossculture": "koboldcomforts:item/resource/mossculture"
+  },
+  "elements": [
+    {
+      "name": "origin",
+      "from": [8.0, 0.0, 8.0],
+      "to": [8.0, 0.0, 8.0],
+      "uv": [0.0, 0.0],
+      "rotationOrigin": [8.0, 0.0, 8.0],
+      "faces": {
+        "north": {
+          "texture": "#mossculture",
+          "uv": [0.0, 0.5, 0.5, 1.0],
+          "enabled": false
+        },
+        "east": {
+          "texture": "#mossculture",
+          "uv": [0.5, 0.5, 1.0, 1.0],
+          "enabled": false
+        },
+        "south": {
+          "texture": "#mossculture",
+          "uv": [1.0, 0.5, 1.5, 1.0],
+          "enabled": false
+        },
+        "west": {
+          "texture": "#mossculture",
+          "uv": [1.5, 0.5, 2.0, 1.0],
+          "enabled": false
+        },
+        "up": {
+          "texture": "#mossculture",
+          "uv": [0.0, 0.0, 0.5, 0.5],
+          "enabled": false
+        },
+        "down": {
+          "texture": "#mossculture",
+          "uv": [0.5, 0.0, 1.0, 0.5],
+          "enabled": false
+        }
+      },
+      "children": [
+        {
+          "name": "Mossculture",
+          "from": [-1.5, 0.0, -1.5],
+          "to": [1.5, 0.6, 1.5],
+          "unwrapMode": 6,
+          "autoUnwrap": false,
+          "uv": [0.0, 1.5],
+          "faces": {
+            "north": {
+              "texture": "#mossculture",
+              "uv": [2.6667, 1.3333, 8.6667, 4.0]
+            },
+            "east": {
+              "texture": "#mossculture",
+              "uv": [3.5, 6.5, 4.0, 9.5],
+              "rotation": 90
+            },
+            "south": {
+              "texture": "#mossculture",
+              "uv": [2.5, 10.5, 5.5, 11.0],
+              "rotation": 180
+            },
+            "west": {
+              "texture": "#mossculture",
+              "uv": [8.5, 4.5, 9.0, 7.5],
+              "rotation": 270
+            },
+            "up": {
+              "texture": "#mossculture",
+              "uv": [5.3333, 4.6667, 11.3333, 10.6667]
+            },
+            "down": {
+              "texture": "#mossculture",
+              "uv": [2.6667, 4.6667, 8.6667, 10.6667]
+            }
+          },
+          "children": [
+            {
+              "name": "Mossculture1",
+              "from": [1.5, 0.05, 1.5],
+              "to": [3.5, 0.4, 3.5],
+              "uv": [2.5, 6.0],
+              "rotationOrigin": [2.5, 0.05, 2.5],
+              "rotationY": 45.0,
+              "faces": {
+                "north": {
+                  "texture": "#mossculture",
+                  "uv": [0.0, 14.0, 4.0, 16.0],
+                  "enabled": false
+                },
+                "east": {
+                  "texture": "#mossculture",
+                  "uv": [2.6667, 10.0, 6.6667, 12.0]
+                },
+                "south": {
+                  "texture": "#mossculture",
+                  "uv": [6.0, 10.0, 10.0, 12.0]
+                },
+                "west": {
+                  "texture": "#mossculture",
+                  "uv": [10.0, 10.0, 14.0, 12.0]
+                },
+                "up": {
+                  "texture": "#mossculture",
+                  "uv": [2.6667, 6.0, 6.6667, 10.0]
+                },
+                "down": {
+                  "texture": "#mossculture",
+                  "uv": [6.0, 6.0, 10.0, 10.0]
+                }
+              }
+            },
+            {
+              "name": "Mossculture2",
+              "from": [-0.5, 0.0, -0.5],
+              "to": [0.5, 0.3, 1.0],
+              "uv": [6.0, 6.0],
+              "rotationOrigin": [0.0, 0.0, 0.25],
+              "rotationY": 22.5,
+              "faces": {
+                "north": {
+                  "texture": "#mossculture",
+                  "uv": [6.0, 7.5, 7.0, 8.0]
+                },
+                "east": {
+                  "texture": "#mossculture",
+                  "uv": [7.0, 7.5, 8.5, 8.0]
+                },
+                "south": {
+                  "texture": "#mossculture",
+                  "uv": [8.5, 7.5, 9.5, 8.0]
+                },
+                "west": {
+                  "texture": "#mossculture",
+                  "uv": [9.5, 7.5, 11.0, 8.0]
+                },
+                "up": { "texture": "#mossculture", "uv": [6.0, 6.0, 7.0, 7.5] },
+                "down": {
+                  "texture": "#mossculture",
+                  "uv": [7.0, 6.0, 8.0, 7.5]
+                }
+              }
+            },
+            {
+              "name": "Mossculture3",
+              "from": [-1.0, 0.05, 2.0],
+              "to": [1.0, 0.4, 3.5],
+              "uv": [2.5, 4.0],
+              "rotationOrigin": [0.0, 0.05, 2.75],
+              "rotationY": 90.0,
+              "faces": {
+                "north": {
+                  "texture": "#mossculture",
+                  "uv": [2.6667, 6.0, 6.6667, 7.3333]
+                },
+                "east": {
+                  "texture": "#mossculture",
+                  "uv": [6.0, 6.0, 8.6667, 7.3333]
+                },
+                "south": {
+                  "texture": "#mossculture",
+                  "uv": [8.0, 6.0, 12.0, 7.3333]
+                },
+                "west": {
+                  "texture": "#mossculture",
+                  "uv": [12.0, 6.0, 14.6667, 7.3333]
+                },
+                "up": {
+                  "texture": "#mossculture",
+                  "uv": [2.6667, 4.0, 6.6667, 6.6667]
+                },
+                "down": {
+                  "texture": "#mossculture",
+                  "uv": [6.0, 4.0, 10.0, 6.6667]
+                }
+              }
+            },
+            {
+              "name": "Mossculture4",
+              "from": [1.0, 0.05, -1.0],
+              "to": [3.0, 0.4, 1.0],
+              "autoUnwrap": false,
+              "uv": [0.0, 10.0],
+              "rotationOrigin": [2.0, 0.05, 0.0],
+              "rotationY": -112.5,
+              "faces": {
+                "north": {
+                  "texture": "#mossculture",
+                  "uv": [3.3333, 10.6667, 7.3333, 12.6667]
+                },
+                "east": {
+                  "texture": "#mossculture",
+                  "uv": [4.0, 14.0, 8.0, 16.0],
+                  "enabled": false
+                },
+                "south": {
+                  "texture": "#mossculture",
+                  "uv": [6.0, 8.0, 10.0, 10.0]
+                },
+                "west": {
+                  "texture": "#mossculture",
+                  "uv": [6.6667, 8.6667, 10.6667, 10.6667]
+                },
+                "up": {
+                  "texture": "#mossculture",
+                  "uv": [3.3333, 4.6667, 7.3333, 8.6667]
+                },
+                "down": {
+                  "texture": "#mossculture",
+                  "uv": [4.0, 10.0, 8.0, 14.0]
+                }
+              }
+            },
+            {
+              "name": "Mossculture5",
+              "from": [2.5, -0.05, 0.5],
+              "to": [3.5, 0.25, 2.0],
+              "uv": [9.0, 10.0],
+              "rotationOrigin": [3.0, -0.05, 1.25],
+              "rotationY": 22.5,
+              "faces": {
+                "north": {
+                  "texture": "#mossculture",
+                  "uv": [9.0, 13.0, 11.0, 14.0]
+                },
+                "east": {
+                  "texture": "#mossculture",
+                  "uv": [11.0, 13.0, 14.0, 14.0]
+                },
+                "south": {
+                  "texture": "#mossculture",
+                  "uv": [14.0, 13.0, 16.0, 14.0]
+                },
+                "west": {
+                  "texture": "#mossculture",
+                  "uv": [0.0, 0.0, 3.0, 1.0],
+                  "enabled": false
+                },
+                "up": {
+                  "texture": "#mossculture",
+                  "uv": [9.0, 10.0, 11.0, 13.0]
+                },
+                "down": {
+                  "texture": "#mossculture",
+                  "uv": [11.0, 10.0, 13.0, 13.0]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

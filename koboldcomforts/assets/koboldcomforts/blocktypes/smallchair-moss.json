@@ -1,0 +1,80 @@
+{
+  "code": "smallchair-moss",
+  "behaviors": [{ "name": "UnstableFalling" }],
+  "attributes": {
+    "humanoidTraversalCost": 100,
+    "handbook": {
+      "groupBy": ["smallchair-*"],
+      "extraSections": [
+        { "title": "", "text": "koboldcomforts:handbook-smallchair-desc" }
+      ]
+    }
+  },
+  "shape": {
+    "base": "koboldcomforts:wood/smallchair-cover"
+  },
+  "textures": {
+    "cover": { "base": "koboldcomforts:item/resource/mossculture" },
+    "top": { "base": "koboldcomforts:block/wood/chair/mossy/top" },
+    "oak": { "base": "game:block/wood/debarked/mossy" }
+  },
+  "heldTpIdleAnimation": "holdunderarm",
+  "creativeinventory": {
+    "general": ["*"],
+    "decorative": ["*"]
+  },
+  "blockmaterial": "Wood",
+  "replaceable": 900,
+  "resistance": 1.5,
+  "lightAbsorption": 1,
+  "sidesolid": {
+    "all": false
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "combustibleProps": {
+    "burnTemperature": 600,
+    "burnDuration": 20
+  },
+  "sounds": {
+    "place": "game:block/planks",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  },
+  "materialDensity": 400,
+  "selectionbox": {
+    "x1": 0.0625,
+    "y1": 0,
+    "z1": 0.0625,
+    "x2": 0.9375,
+    "y2": 0.4375,
+    "z2": 0.9375
+  },
+  "collisionbox": {
+    "x1": 0.0625,
+    "y1": 0,
+    "z1": 0.0625,
+    "x2": 0.9375,
+    "y2": 0.4375,
+    "z2": 0.9375
+  },
+  "guiTransform": {
+    "translation": { "x": 0, "y": 2, "z": 0 },
+    "origin": { "x": 0.5, "y": 0.25, "z": 0.5 }
+  },
+  "groundTransform": {
+    "scale": 1.7
+  },
+  "tpHandTransform": {
+    "translation": { "x": -0.8, "y": -0.42, "z": -0.39 },
+    "rotation": { "x": -8, "y": 75, "z": -101 },
+    "scale": 0.62
+  },
+  "fpHandTransform": {
+    "translation": { "x": -0.3, "y": -0.25, "z": 0.7 },
+    "rotation": { "x": 30, "y": -42, "z": 91 },
+    "scale": 1.45
+  }
+}
