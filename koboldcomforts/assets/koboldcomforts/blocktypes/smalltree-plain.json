@@ -16,6 +16,8 @@
   "textures": {
     "smalltreetexture": { "base": "koboldcomforts:block/smalltree-plain" }
   },
+  "renderpass": "OpaqueNoCull",
+  "faceCullMode": "CollapseMaterial",
   "heldTpIdleAnimation": "holdunderarm",
   "creativeinventory": {
     "general": ["*"],
