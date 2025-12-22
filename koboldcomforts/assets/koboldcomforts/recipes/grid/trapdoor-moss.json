@@ -1,0 +1,20 @@
+[
+  {
+    "ingredientPattern": "MM,MM",
+    "RecipeGroup": 0,
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "koboldcomforts:mossculture"
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "output": {
+      "type": "block",
+      "code": "koboldcomforts:trapdoor-moss",
+      "quantity": 1
+    }
+  }
+]
+

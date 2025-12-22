@@ -23,5 +23,8 @@
   "koboldcomforts:itemdesc-mossculture": "En fuktig kultur av mossa, odlad från förruttnelse och vatten i ett fat.",
 
   "koboldcomforts:block-mossblock": "Mossblock",
-  "koboldcomforts:handbook-mossblock-desc": "Mjuk, svampig mossa som har vuxit över torv. Användbar för bekväma möbler eller dekorativa byggen."
+  "koboldcomforts:handbook-mossblock-desc": "Mjuk, svampig mossa som har vuxit över torv. Användbar för bekväma möbler eller dekorativa byggen.",
+
+  "koboldcomforts:block-trapdoor-moss": "Mossa Fallucka",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "En fallucka tillverkad av mosskultur."
 }

@@ -23,5 +23,8 @@
   "koboldcomforts:itemdesc-mossculture": "Eine feuchte Mooskultur, die aus Fäulnis und Wasser in einem Fass gezogen wurde.",
 
   "koboldcomforts:block-mossblock": "Moosblock",
-  "koboldcomforts:handbook-mossblock-desc": "Weiches, schwammiges Moos, das auf Torf gewachsen ist. Nützlich für bequeme Möbel oder dekorative Bauten."
+  "koboldcomforts:handbook-mossblock-desc": "Weiches, schwammiges Moos, das auf Torf gewachsen ist. Nützlich für bequeme Möbel oder dekorative Bauten.",
+
+  "koboldcomforts:block-trapdoor-moss": "Moos-Falltür",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "Eine Falltür aus Mooskultur."
 }

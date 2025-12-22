@@ -23,5 +23,8 @@
   "koboldcomforts:itemdesc-mossculture": "Une culture humide de mousse, cultivée à partir de pourriture et d'eau dans un tonneau.",
 
   "koboldcomforts:block-mossblock": "Bloc de mousse",
-  "koboldcomforts:handbook-mossblock-desc": "Une mousse douce et spongieuse qui a poussé sur la tourbe. Utile pour des meubles confortables ou des constructions décoratives."
+  "koboldcomforts:handbook-mossblock-desc": "Une mousse douce et spongieuse qui a poussé sur la tourbe. Utile pour des meubles confortables ou des constructions décoratives.",
+
+  "koboldcomforts:block-trapdoor-moss": "Trappe en Mousse",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "Une trappe fabriquée à partir de culture de mousse."
 }

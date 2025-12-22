@@ -23,5 +23,8 @@
   "koboldcomforts:itemdesc-mossculture": "Un cultivo húmedo de musgo, crecido a partir de podredumbre y agua en un barril.",
 
   "koboldcomforts:block-mossblock": "Bloque de musgo",
-  "koboldcomforts:handbook-mossblock-desc": "Musgo suave y esponjoso que ha crecido sobre turba. Útil para muebles cómodos o construcciones decorativas."
+  "koboldcomforts:handbook-mossblock-desc": "Musgo suave y esponjoso que ha crecido sobre turba. Útil para muebles cómodos o construcciones decorativas.",
+
+  "koboldcomforts:block-trapdoor-moss": "Trampilla de Musgo",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "Una trampilla hecha de cultivo de musgo."
 }

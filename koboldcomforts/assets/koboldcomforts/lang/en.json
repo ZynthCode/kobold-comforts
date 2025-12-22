@@ -23,5 +23,8 @@
   "koboldcomforts:itemdesc-mossculture": "A damp culture of moss grown from rot and water in a barrel.",
 
   "koboldcomforts:block-mossblock": "Moss Block",
-  "koboldcomforts:handbook-mossblock-desc": "Soft, spongy moss grown over peat. Useful for comfortable furniture or decorative builds."
+  "koboldcomforts:handbook-mossblock-desc": "Soft, spongy moss grown over peat. Useful for comfortable furniture or decorative builds.",
+
+  "koboldcomforts:block-trapdoor-moss": "Moss Trapdoor",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "A trapdoor crafted from moss culture."
 }

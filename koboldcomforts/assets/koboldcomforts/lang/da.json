@@ -23,5 +23,8 @@
   "koboldcomforts:itemdesc-mossculture": "En fugtig kultur af mos, dyrket fra råd og vand i en tønde.",
 
   "koboldcomforts:block-mossblock": "Mosblok",
-  "koboldcomforts:handbook-mossblock-desc": "Blødt, svampet mos, der er vokset over tørv. Nyttigt til behagelige møbler eller dekorative byggerier."
+  "koboldcomforts:handbook-mossblock-desc": "Blødt, svampet mos, der er vokset over tørv. Nyttigt til behagelige møbler eller dekorative byggerier.",
+
+  "koboldcomforts:block-trapdoor-moss": "Mos Lemme",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "En lemme lavet af moskultur."
 }
