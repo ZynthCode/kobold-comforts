@@ -9,7 +9,7 @@ if (-not (Test-Path $MOD_DIR -PathType Container)) {
     exit 1
 }
 
-Set-Location $MOD_DIR
+Push-Location $MOD_DIR
 
 if (-not (Test-Path "modinfo.json" -PathType Leaf)) {
     Write-Error "Error: modinfo.json not found in '$MOD_DIR'."
@@ -42,6 +42,8 @@ $filesToZip = @(
 )
 
 Compress-Archive -Path $filesToZip -DestinationPath $OUTPUT_ZIP -CompressionLevel Optimal
+
+Pop-Location
 
 Write-Host "Created $OUTPUT_ZIP" -ForegroundColor Green
 

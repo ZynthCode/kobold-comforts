@@ -26,5 +26,8 @@
   "koboldcomforts:handbook-mossblock-desc": "Une mousse douce et spongieuse qui a poussé sur la tourbe. Utile pour des meubles confortables ou des constructions décoratives.",
 
   "koboldcomforts:block-trapdoor-moss": "Trappe en Mousse",
-  "koboldcomforts:handbook-trapdoor-moss-desc": "Une trappe fabriquée à partir de culture de mousse."
+  "koboldcomforts:handbook-trapdoor-moss-desc": "Une trappe fabriquée à partir de culture de mousse.",
+
+  "koboldcomforts:block-smalltree-plain": "Petit Arbre",
+  "koboldcomforts:handbook-smalltree-plain-desc": "Un petit pin minuscule, légèrement parfumé à la mousse, apportant de bonnes vibrations aux petits espaces."
 }

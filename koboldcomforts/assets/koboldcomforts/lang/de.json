@@ -26,5 +26,8 @@
   "koboldcomforts:handbook-mossblock-desc": "Weiches, schwammiges Moos, das auf Torf gewachsen ist. Nützlich für bequeme Möbel oder dekorative Bauten.",
 
   "koboldcomforts:block-trapdoor-moss": "Moos-Falltür",
-  "koboldcomforts:handbook-trapdoor-moss-desc": "Eine Falltür aus Mooskultur."
+  "koboldcomforts:handbook-trapdoor-moss-desc": "Eine Falltür aus Mooskultur.",
+
+  "koboldcomforts:block-smalltree-plain": "Kleiner Baum",
+  "koboldcomforts:handbook-smalltree-plain-desc": "Eine winzige Kiefer, sanft moosduftend, die kleinen Räumen gute Stimmung bringt."
 }

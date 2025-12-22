@@ -26,5 +26,8 @@
   "koboldcomforts:handbook-mossblock-desc": "Mjuk, svampig mossa som har vuxit över torv. Användbar för bekväma möbler eller dekorativa byggen.",
 
   "koboldcomforts:block-trapdoor-moss": "Mossa Fallucka",
-  "koboldcomforts:handbook-trapdoor-moss-desc": "En fallucka tillverkad av mosskultur."
+  "koboldcomforts:handbook-trapdoor-moss-desc": "En fallucka tillverkad av mosskultur.",
+
+  "koboldcomforts:block-smalltree-plain": "Litet Träd",
+  "koboldcomforts:handbook-smalltree-plain-desc": "En pytteliten tall, mjukt mossdoftande, som ger goda vibbar till små utrymmen."
 }

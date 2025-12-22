@@ -1,0 +1,84 @@
+{
+  "code": "smalltree-plain",
+  "behaviors": [
+    { "name": "UnstableFalling" }
+  ],
+  "attributes": {
+    "humanoidTraversalCost": 100,
+    "handbook": {
+      "groupBy": ["smalltree-*"],
+      "extraSections": [
+        { "title": "", "text": "koboldcomforts:handbook-smalltree-plain-desc" }
+      ]
+    }
+  },
+  "shape": { "base": "koboldcomforts:block/smalltree-plain" },
+  "textures": {
+    "smalltreetexture": { "base": "koboldcomforts:block/smalltree-plain" }
+  },
+  "heldTpIdleAnimation": "holdunderarm",
+  "creativeinventory": {
+    "general": ["*"],
+    "decorative": ["*"]
+  },
+  "blockmaterial": "Wood",
+  "replaceable": 900,
+  "resistance": 1.5,
+  "lightAbsorption": 1,
+  "sidesolid": {
+    "all": false
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "combustibleProps": {
+    "burnTemperature": 600,
+    "burnDuration": 20
+  },
+  "sounds": {
+    "place": "game:block/plant",
+    "hit": "game:block/plant",
+    "break": "game:block/plant",
+    "walk": "game:walk/wood"
+  },
+  "materialDensity": 400,
+  "selectionbox": {
+    "x1": 0.1875,
+    "y1": 0,
+    "z1": 0.1875,
+    "x2": 0.8125,
+    "y2": 1.375,
+    "z2": 0.8125
+  },
+  "collisionbox": {
+    "x1": 0.1875,
+    "y1": 0,
+    "z1": 0.1875,
+    "x2": 0.8125,
+    "y2": 1.375,
+    "z2": 0.8125
+  },
+
+	"guiTransform": {
+		"translation": { "x": 0, "y": 5, "z": 0 },
+		"rotation": { "x": 1, "y": -16, "z": 0 },
+		"scale": 1.2
+	},
+
+  "groundTransform": {
+    "scale": 1.5
+  },
+  
+	"tpHandTransform": {
+		"translation": { "x": -0.8, "y": -0.3, "z": -0.3899 },
+		"rotation": { "x": 3, "y": -10, "z": -66 },
+		"scale": 0.75
+	},
+
+  "fpHandTransform": {
+    "translation": { "x": -0.3, "y": -0.15, "z": 0.7 },
+    "rotation": { "x": 30, "y": -42, "z": 91 },
+    "scale": 1.2
+  }
+}
+

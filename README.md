@@ -119,6 +119,24 @@ Craft moss blocks by putting moss culture on top of peat! Makes soft, spongy mos
 - Blocks Light (Usable to create valid "Rooms" in Vintage Story)
 - Multi-language support (en, de, fr, es, da, no, sv)
 
+
+----
+
+## Development
+
+### In-Game Transform Editor
+
+Vintage Story provides a built-in transform editor that streamlines the process of positioning items in various contexts. Instead of manually editing JSON transform values, hold an item in-game and run:
+
+```
+.tfedit
+```
+
+This command allows you to visually adjust `tpHandTransform`, `fpHandTransform`, `groundTransform`, `guiTransform`, and other positioning properties in real-time. This interactive approach **significantly** accelerates the development workflow!
+
+
+----
+
 ## License
 
 See [LICENSE](LICENSE) for full license details.

@@ -1,0 +1,28 @@
+[
+  {
+    "ingredientPattern": "A,S,M",
+    "ingredients": {
+      "A": {
+        "type": "item",
+        "code": "game:axe-*",
+        "isTool": true
+      },
+      "S": {
+        "type": "item",
+        "code": "game:treeseed-pine"
+      },
+      "M": {
+        "type": "block",
+        "code": "koboldcomforts:mossblock"
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "koboldcomforts:smalltree-plain",
+      "quantity": 1
+    }
+  }
+]
+
