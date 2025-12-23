@@ -35,13 +35,35 @@ if (Test-Path $OUTPUT_ZIP) {
     Remove-Item $OUTPUT_ZIP -Force
 }
 
-$filesToZip = @(
-    "assets",
-    "modicon.png",
-    "modinfo.json"
-)
+Add-Type -AssemblyName System.IO.Compression
+Add-Type -AssemblyName System.IO.Compression.FileSystem
 
-Compress-Archive -Path $filesToZip -DestinationPath $OUTPUT_ZIP -CompressionLevel Optimal
+$zip = [System.IO.Compression.ZipFile]::Open($OUTPUT_ZIP, [System.IO.Compression.ZipArchiveMode]::Create)
+
+$filesToInclude = @("modinfo.json", "modicon.png")
+foreach ($file in $filesToInclude) {
+    if (Test-Path $file) {
+        [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile(
+            $zip, 
+            (Resolve-Path $file).Path, 
+            $file, 
+            [System.IO.Compression.CompressionLevel]::Optimal
+        ) | Out-Null
+    }
+}
+
+Get-ChildItem -Path "assets" -Recurse -File | ForEach-Object {
+    $relativePath = $_.FullName.Substring((Get-Location).Path.Length + 1)
+    $entryPath = $relativePath -replace '\\', '/'
+    [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile(
+        $zip, 
+        $_.FullName, 
+        $entryPath, 
+        [System.IO.Compression.CompressionLevel]::Optimal
+    ) | Out-Null
+}
+
+$zip.Dispose()
 
 Pop-Location
 

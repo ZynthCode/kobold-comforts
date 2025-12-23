@@ -1,9 +1,11 @@
 {
-  "type": "content",
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Content",
   "modid": "koboldcomforts",
   "name": "Kobold Comforts (1.21.6)",
+  "side": "Universal",
   "authors": ["Zynth"],
   "description": "Only another kobold truly understands how difficult life can be when you are smol. Bigfolk build everything too tall and too wide, and every home feels like it was made for giants.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "dependencies": {}
 }

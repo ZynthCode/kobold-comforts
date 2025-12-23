@@ -10,7 +10,7 @@ This is a Vintage Story content mod for short kobolds!
 
 - **Mod ID**: `koboldcomforts`
 - **Name**: Kobold Comforts
-- **Version**: 1.2.0
+- **Version**: 1.2.1
 - **Authors**: Zynth
 - **Game Version**: 1.21.6
 - **Type**: Content Mod
@@ -117,6 +117,14 @@ A trapdoor crafted from moss culture. Soft and mossy!
 ![](docs/koboldcomforts/moss/trapdoor-moss/trapdoor-moss-recipe.png)
 
 ## Changelog
+
+### Version 1.2.1
+
+**Fixes:**
+
+- Fixed mod not loading on Linux servers due to incorrect path separators in zip archive
+- Fixed missing `game:` prefix on sound references in moss trapdoor
+- Added lastest schema and `side: Universal` to modinfo.json
 
 ### Version 1.2.0
 
