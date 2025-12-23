@@ -2,7 +2,7 @@
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Liten Dörr",
   "koboldcomforts:block-smalldoor-moss": "Liten Dörr (Mossa)",
-  "koboldcomforts:handbook-smalldoor-desc": "En liten dörr perfekt för mindre kobolds (eller för mindre husdjur och varelser).",
+  "koboldcomforts:handbook-smalldoor-desc": "En liten dörr perfekt för mindre Kobolds (eller för mindre husdjur och varelser).",
 
   "koboldcomforts:block-smallchair-plain": "Liten Stol (Vanlig)",
   "koboldcomforts:block-smallchair-blue": "Liten Stol (Blå)",
@@ -32,5 +32,5 @@
   "koboldcomforts:handbook-smalltree-plain-desc": "En pytteliten tall, mjukt mossdoftande, som ger goda vibbar till små utrymmen.",
 
   "koboldcomforts:block-smalltree-festive": "Litet Festligt Träd",
-  "koboldcomforts:handbook-smalltree-festive-desc": "Uppfinningsrika koboltar upptäckte att lera och glas gör perfekta ornament till ett glatt festträd! (Fråga inte om bandet)"
+  "koboldcomforts:handbook-smalltree-festive-desc": "Uppfinningsrika Kobolds upptäckte att lera och glas gör perfekta ornament till ett glatt festträd! (Fråga inte om bandet)"
 }
