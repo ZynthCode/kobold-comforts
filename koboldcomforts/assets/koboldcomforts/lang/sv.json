@@ -29,5 +29,8 @@
   "koboldcomforts:handbook-trapdoor-moss-desc": "En fallucka tillverkad av mosskultur.",
 
   "koboldcomforts:block-smalltree-plain": "Litet Träd",
-  "koboldcomforts:handbook-smalltree-plain-desc": "En pytteliten tall, mjukt mossdoftande, som ger goda vibbar till små utrymmen."
+  "koboldcomforts:handbook-smalltree-plain-desc": "En pytteliten tall, mjukt mossdoftande, som ger goda vibbar till små utrymmen.",
+
+  "koboldcomforts:block-smalltree-festive": "Litet Festligt Träd",
+  "koboldcomforts:handbook-smalltree-festive-desc": "Uppfinningsrika koboltar upptäckte att lera och glas gör perfekta ornament till ett glatt festträd! (Fråga inte om bandet)"
 }

@@ -29,5 +29,8 @@
   "koboldcomforts:handbook-trapdoor-moss-desc": "En lemme lavet af moskultur.",
 
   "koboldcomforts:block-smalltree-plain": "Lille Træ",
-  "koboldcomforts:handbook-smalltree-plain-desc": "Et lille bitte fyrretræ, blidt mosduftet, der bringer gode vibes til små rum."
+  "koboldcomforts:handbook-smalltree-plain-desc": "Et lille bitte fyrretræ, blidt mosduftet, der bringer gode vibes til små rum.",
+
+  "koboldcomforts:block-smalltree-festive": "Lille Festligt Træ",
+  "koboldcomforts:handbook-smalltree-festive-desc": "Opfindsomme kobolde opdagede, at ler og glas gør perfekte ornamenter til et muntert festtræ! (Spørg ikke om båndet)"
 }

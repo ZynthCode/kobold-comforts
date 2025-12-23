@@ -29,5 +29,8 @@
   "koboldcomforts:handbook-trapdoor-moss-desc": "A trapdoor crafted from moss culture.",
 
   "koboldcomforts:block-smalltree-plain": "Small Tree",
-  "koboldcomforts:handbook-smalltree-plain-desc": "A tiny pine tree, softly moss-scented, bringing good vibes to small spaces."
+  "koboldcomforts:handbook-smalltree-plain-desc": "A tiny pine tree, softly moss-scented, bringing good vibes to small spaces.",
+
+  "koboldcomforts:block-smalltree-festive": "Small Festive Tree",
+  "koboldcomforts:handbook-smalltree-festive-desc": "Resourceful kobolds discovered that clay and glass make perfect ornaments for a cheerful festive tree! (Don't ask about the ribbon)"
 }

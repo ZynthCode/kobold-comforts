@@ -29,5 +29,8 @@
   "koboldcomforts:handbook-trapdoor-moss-desc": "Une trappe fabriquée à partir de culture de mousse.",
 
   "koboldcomforts:block-smalltree-plain": "Petit Arbre",
-  "koboldcomforts:handbook-smalltree-plain-desc": "Un petit pin minuscule, légèrement parfumé à la mousse, apportant de bonnes vibrations aux petits espaces."
+  "koboldcomforts:handbook-smalltree-plain-desc": "Un petit pin minuscule, légèrement parfumé à la mousse, apportant de bonnes vibrations aux petits espaces.",
+
+  "koboldcomforts:block-smalltree-festive": "Petit Arbre Festif",
+  "koboldcomforts:handbook-smalltree-festive-desc": "Des kobolds ingénieux ont découvert que l'argile et le verre font des ornements parfaits pour un joyeux arbre de fête ! (Ne demandez pas pour le ruban)"
 }
