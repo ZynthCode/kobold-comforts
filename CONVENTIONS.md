@@ -114,7 +114,7 @@ Vintage Story provides a built-in command help system accessed via `/help`. Leve
 
 - **Use `.WithDescription()`:** Every command and subcommand should have a clear description. **Important:** Descriptions only appear when using `/help` - they do NOT appear in the basic subcommand listing when you type `/command`. When you type `/command`, you only see "Choose a subcommand: [list]" without descriptions.
 
-- **Avoid custom help subcommands:** Do not create `/mycommand help` subcommands. Users expect `/help mycommand` to work, and the built-in system already provides this.
+- **Avoid custom help subcommands:** As a rule of thumb, avoid creating `/mycommand help` subcommands. Users expect `/help mycommand` to work, and the built-in system already provides this.
 
 - **Avoid redundant status handlers:** Do not create handlers on intermediate nodes that just echo available subcommands. When a user types an incomplete command, the built-in system automatically shows "Choose a subcommand: [list]".
 
@@ -144,11 +144,11 @@ Vintage Story provides a built-in command help system accessed via `/help`. Leve
   ```csharp
   .BeginSubCommand("set")
       .BeginSubCommand("strict")
-          .WithDescription("Fall back to world spawn")
+          .WithDescription("Fall back to world spawn immediately on death")
           .HandleWith(handler)
       .EndSubCommand()
       .BeginSubCommand("adaptive")
-          .WithDescription("Try multiple strategies")
+          .WithDescription("Try multiple strategies before falling back to world spawn on death")
           .HandleWith(handler)
       .EndSubCommand()
   .EndSubCommand()
@@ -193,6 +193,8 @@ Vintage Story provides a built-in command help system accessed via `/help`. Leve
 - Less code to maintain
 - Consistent with game conventions
 - `/help` provides detailed usage information including argument parsers
+
+----
 
 # Content
 
