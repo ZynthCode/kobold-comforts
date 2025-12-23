@@ -1,0 +1,40 @@
+[
+  {
+    "ingredientPattern": "AG_,RSB,_M_",
+    "ingredients": {
+      "A": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-quartz"
+      },
+      "R": {
+        "type": "item",
+        "code": "game:clay-red"
+      },
+      "S": {
+        "type": "item",
+        "code": "game:treeseed-pine"
+      },
+      "B": {
+        "type": "item",
+        "code": "game:clay-blue"
+      },
+      "M": {
+        "type": "block",
+        "code": "koboldcomforts:mossblock"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "koboldcomforts:smalltree-festive",
+      "quantity": 1
+    }
+  }
+]
+

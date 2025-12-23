@@ -23,5 +23,15 @@
   "koboldcomforts:itemdesc-mossculture": "En fuktig kultur av mose dyrket fra råte og vann i ei fat.",
 
   "koboldcomforts:block-mossblock": "Moseblokk",
-  "koboldcomforts:handbook-mossblock-desc": "Myk, svampete mose som har vokst over torv. Nyttig til komfortable møbler eller dekorative bygg."
+  "koboldcomforts:handbook-mossblock-desc": "Myk, svampete mose som har vokst over torv. Nyttig til komfortable møbler eller dekorative bygg.",
+
+  "koboldcomforts:block-trapdoor-moss": "Mose Lemme",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "En lemme laget av mosekultur.",
+
+  "koboldcomforts:block-smalltree-plain": "Lite Tre",
+  "koboldcomforts:handbook-smalltree-plain-desc": "En bitteliten furu, mildt moseduftet, som bringer gode vibber til små rom.",
+
+  "koboldcomforts:block-smalltree-festive": "Lite Festlig Tre",
+  "koboldcomforts:handbook-smalltree-festive-desc": "Oppfinnsomme Kobolds oppdaget at leire og glass lager perfekte ornamenter til et munter festtre! (Ikke spør om båndet)"
 }
+

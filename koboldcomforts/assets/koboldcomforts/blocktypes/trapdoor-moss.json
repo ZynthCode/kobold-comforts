@@ -1,0 +1,77 @@
+{
+  "code": "trapdoor-moss",
+  "class": "BlockGeneric",
+  "entityClass": "Generic",
+
+  "behaviors": [
+    { "name": "Lockable" },
+    { "name": "TrapDoor" },
+    { "name": "BlockEntityInteract" }
+  ],
+  "entityBehaviors": [{ "name": "TrapDoor" }],
+
+  "attributes": {
+    "reinforcable": true,
+    "handbook": {
+      "groupBy": ["trapdoor-*"],
+      "extraSections": [
+        { "title": "", "text": "koboldcomforts:handbook-trapdoor-moss-desc" }
+      ]
+    },
+    "airtightByType": {
+      "trapdoor-moss": true
+    },
+    "width": 1,
+    "length": 1,
+    "height": 0,
+    "openSound": "sounds/block/door",
+    "closeSound": "sounds/block/door",
+    "easingSpeed": 10
+  },
+
+  "creativeinventoryByType": {
+    "trapdoor-moss": { "general": ["*"], "decorative": ["*"] }
+  },
+
+  "shape": { "base": "koboldcomforts:block/wood/trapdoor-moss" },
+
+  "texturesByType": {
+    "trapdoor-moss": {
+      "material": {
+        "base": "game:block/wood/debarked/mossy"
+      }
+    }
+  },
+
+  "renderPass": "OpaqueNoCull",
+  "faceCullMode": "NeverCull",
+  "blockmaterial": "Wood",
+  "sideAo": { "all": false },
+  "heldTpIdleAnimation": "holdunderarm",
+  "replaceable": 500,
+  "resistance": 3.5,
+  "lightAbsorption": 0,
+  "sidesolid": {
+    "all": false
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "selectionbox": {
+    "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.1875, "z2": 1
+  },
+  "collisionbox": {
+    "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.1875, "z2": 1
+  },
+  "combustibleProps": {
+    "burnTemperature": 600,
+    "burnDuration": 25
+  },
+  "sounds": {
+    "place": "block/planks",
+    "hit": "block/planks",
+    "break": "block/planks",
+    "walk": "walk/wood"
+  },
+  "materialDensity": 600
+}

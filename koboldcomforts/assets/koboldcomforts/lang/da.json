@@ -2,7 +2,7 @@
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Lille Dør",
   "koboldcomforts:block-smalldoor-moss": "Lille Dør (Mos)",
-  "koboldcomforts:handbook-smalldoor-desc": "En lille dør, perfekt til mindre kobolds (eller til mindre kæledyr og smådyr).",
+  "koboldcomforts:handbook-smalldoor-desc": "En lille dør, perfekt til mindre Kobolds (eller til mindre kæledyr og smådyr).",
 
   "koboldcomforts:block-smallchair-plain": "Lille Taburet (Ufarvet)",
   "koboldcomforts:block-smallchair-blue": "Lille Taburet (Blå)",
@@ -23,5 +23,14 @@
   "koboldcomforts:itemdesc-mossculture": "En fugtig kultur af mos, dyrket fra råd og vand i en tønde.",
 
   "koboldcomforts:block-mossblock": "Mosblok",
-  "koboldcomforts:handbook-mossblock-desc": "Blødt, svampet mos, der er vokset over tørv. Nyttigt til behagelige møbler eller dekorative byggerier."
+  "koboldcomforts:handbook-mossblock-desc": "Blødt, svampet mos, der er vokset over tørv. Nyttigt til behagelige møbler eller dekorative byggerier.",
+
+  "koboldcomforts:block-trapdoor-moss": "Mos Lemme",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "En lemme lavet af moskultur.",
+
+  "koboldcomforts:block-smalltree-plain": "Lille Træ",
+  "koboldcomforts:handbook-smalltree-plain-desc": "Et lille bitte fyrretræ, blidt mosduftet, der bringer gode vibes til små rum.",
+
+  "koboldcomforts:block-smalltree-festive": "Lille Festligt Træ",
+  "koboldcomforts:handbook-smalltree-festive-desc": "Opfindsomme Kobolds opdagede, at ler og glas gør perfekte ornamenter til et muntert festtræ! (Spørg ikke om båndet)"
 }

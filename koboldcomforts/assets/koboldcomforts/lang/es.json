@@ -2,7 +2,7 @@
   "game:tabname-koboldcomforts": "Kobold Comforts",
   "koboldcomforts:block-smalldoor-*": "Puerta Pequeña",
   "koboldcomforts:block-smalldoor-moss": "Puerta Pequeña (Musgo)",
-  "koboldcomforts:handbook-smalldoor-desc": "Una puerta pequeña, perfecta para kobolds más pequeños (o para mascotas y criaturas más pequeñas).",
+  "koboldcomforts:handbook-smalldoor-desc": "Una puerta pequeña, perfecta para Kobolds más pequeños (o para mascotas y criaturas más pequeñas).",
 
   "koboldcomforts:block-smallchair-plain": "Taburete pequeño (Simple)",
   "koboldcomforts:block-smallchair-blue": "Taburete pequeño (Azul)",
@@ -23,5 +23,14 @@
   "koboldcomforts:itemdesc-mossculture": "Un cultivo húmedo de musgo, crecido a partir de podredumbre y agua en un barril.",
 
   "koboldcomforts:block-mossblock": "Bloque de musgo",
-  "koboldcomforts:handbook-mossblock-desc": "Musgo suave y esponjoso que ha crecido sobre turba. Útil para muebles cómodos o construcciones decorativas."
+  "koboldcomforts:handbook-mossblock-desc": "Musgo suave y esponjoso que ha crecido sobre turba. Útil para muebles cómodos o construcciones decorativas.",
+
+  "koboldcomforts:block-trapdoor-moss": "Trampilla de Musgo",
+  "koboldcomforts:handbook-trapdoor-moss-desc": "Una trampilla hecha de cultivo de musgo.",
+
+  "koboldcomforts:block-smalltree-plain": "Árbol Pequeño",
+  "koboldcomforts:handbook-smalltree-plain-desc": "Un pino diminuto, suavemente perfumado con musgo, que trae buenas vibras a espacios pequeños.",
+
+  "koboldcomforts:block-smalltree-festive": "Árbol Pequeño Festivo",
+  "koboldcomforts:handbook-smalltree-festive-desc": "¡Los ingeniosos Kobolds descubrieron que la arcilla y el vidrio son adornos perfectos para un alegre árbol festivo! (No preguntes por la cinta)"
 }
