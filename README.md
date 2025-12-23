@@ -10,9 +10,9 @@ This is a Vintage Story content mod for short kobolds!
 
 - **Mod ID**: `koboldcomforts`
 - **Name**: Kobold Comforts
-- **Version**: 1.0.0
+- **Version**: 1.2.0
 - **Authors**: Zynth
-- **Game Version**: 1.21.5
+- **Game Version**: 1.21.6
 - **Type**: Content Mod
 
 ## Description
@@ -37,6 +37,11 @@ The mod is meant to grow over time with even more kobold sized comforts.
   - Soft, spongy moss grown over peat
   - Perfect for comfortable furniture or decorative builds
   - Grow moss culture in a barrel from rot and water, then craft moss blocks
+- Moss trapdoor!
+  - Crafted from moss culture
+- Small trees!
+  - Plain pine tree for year-round decoration (boring tree)
+  - Festive tree with colorful ornaments for celebrations (FUN TREE!)
 
 ## Localization
 
@@ -65,13 +70,13 @@ The mod supports the following languages:
 
 ### Small Door
 
-A totally _normal_ wooden door (for Kobolds).
+A totally _normal_ wooden door (for Kobolds and other small beings).
 
 ![](docs/koboldcomforts/smalldoor/smalldoor-recipe.png)
 
 ### Small Chair
 
-Small chair! Or should I say normal chair? It is the other chairs that are too big!
+Small chair! Or should I say a _normal_ chair? It is the other chairs that are **too big**!
 
 ![](docs/koboldcomforts/smallchair/smallchair-recipe.png)
 
@@ -80,6 +85,18 @@ Small chair! Or should I say normal chair? It is the other chairs that are too b
 Smells fresh (but don't eat it)!
 
 ![](docs/koboldcomforts/moss/smallchair-moss/smallchair-moss-recipe.png)
+
+### Small Tree
+
+A tiny pine tree, softly moss-scented, bringing good vibes to small spaces.
+
+![](docs/koboldcomforts/smalltree/smalltree-plain-recipe.png)
+
+### Small Festive Tree
+
+Resourceful kobolds discovered that clay and glass make perfect ornaments for a cheerful festive tree!
+
+![](docs/koboldcomforts/smalltree/smalltree-festive-recipe.png)
 
 ### Moss Culture
 
@@ -93,7 +110,26 @@ Craft moss blocks by putting moss culture on top of peat! Makes soft, spongy mos
 
 ![](docs/koboldcomforts/moss/mossblock/moss-block-recipe.png)
 
+### Moss Trapdoor
+
+A trapdoor crafted from moss culture. Soft and mossy!
+
+![](docs/koboldcomforts/moss/trapdoor-moss/trapdoor-moss-recipe.png)
+
 ## Changelog
+
+### Version 1.2.0
+
+**New Features:**
+
+- Added moss trapdoor - a functional trapdoor crafted from moss culture
+- Added small tree (plain) - a tiny pine tree, softly moss-scented, bringing good vibes to small spaces
+- Added small festive tree - a decorative holiday tree with colorful ornaments and ribbons
+
+**Dev Stuffs:**
+
+- Added build script for Windows
+- Added CONVENTIONS.md for helping with coding and content conventions (can be reused in differnet projects)
 
 ### Version 1.1.0
 
