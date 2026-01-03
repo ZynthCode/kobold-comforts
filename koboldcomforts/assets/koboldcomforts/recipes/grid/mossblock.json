@@ -8,8 +8,7 @@
       },
       "P": {
         "type": "block",
-        "code": "game:peat-*",
-        "name": "peat"
+        "code": "game:peatbrick"
       }
     },
     "width": 1,
